@@ -1,4 +1,4 @@
-# Operating systems and concurrency 
+# Computer Network Implementation
 
 This repository contains the source of the module website for
-<a href="http://hesabu.net/kf5010">KF5010 Operating Systems and Concurrency</a>
+<a href="http://hesabu.net/kf7046">KF7046 Computer Network Implementation</a>
