@@ -1,0 +1,47 @@
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+title: KF7046
+subtitle: Computer Network Implementation
+authors: David Kendall
+copyyear: 2017
+#url: http://hesabu.net/kf5010
+raurl: assets/ra
+rraurl: assets/ra
+#url: http://localhost:4000
+#raurl: http://localhost:4000/assets/ra
+
+lab_links:
+  - title: Lab 1
+    url: L01.html
+  - title: Lab 2
+    url: L02.html
+  - title: Lab 3
+    url: L03.html
+  - title: Lab 4
+    url: L04.html
+  - title: Lab 5
+    url: L05.html
+  - title: Lab 6
+    url: L06.html
+  - title: Lab 7
+    url: L07.html
+  - title: Lab 8
+    url: L08.html
+  - title: Lab 9
+    url: L09.html
+  - title: Lab 10
+    url: L10.html
+
+
+right_links:
+  - title: View on GitHub
+    url: https://github.com/davidkendall/kf7046
+
+repo: https://github.com/davidkendall/kf7046
+

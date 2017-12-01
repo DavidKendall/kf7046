@@ -1,0 +1,38 @@
+{% include head.html %}
+
+  <body data-spy="scroll" data-target=".toc">
+
+{% include navbar.html %}
+
+    <div class="jumbotron">
+      <div class="container">
+        <h1>{{site.title}}</h1>
+        <p>{{site.subtitle}}</p>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      {% if page.title != "Home" %}
+      <div class="page-header">
+        <h1>{{ page.title }}</h1>
+      </div>
+      {% endif %}
+      <div class="row">
+        <div class="col-lg-9 col-md-10">
+          <div class="page">
+            {{ content }}
+          </div> <!-- end page -->
+        </div>   <!-- end col-lg-9 col-md-10 -->
+      </div>     <!-- end row -->
+{% include footer.html %}
+    </div>       <!-- end container-fluid -->
+
+<!--
+    <script src="//code.jquery.com/jquery-2.1.0.min.js"></script>
+-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="dist/js/bootstrap.min.js"></script>
+    <script src="assets/js/site.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+  </body>
+</html>
