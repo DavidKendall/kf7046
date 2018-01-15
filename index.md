@@ -49,7 +49,7 @@ report.
 
 |   |    |
 |---|:---|
-Lecture/Lab &nbsp;| Wed 11.00 - 15.00 PB B1
+Lecture/Lab &nbsp;| Wed 11.00 - 15.00 PAN F1
 
 <p class="text-info">
 There is one 4-hour session per week that will be used primarily for lab work
