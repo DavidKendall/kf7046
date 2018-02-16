@@ -128,7 +128,7 @@ performance experiments are due to be submitted via the elP (Blackboard) by
 23.59 on Thursday of week 13. Feedback and provisional marks will be provided
 to students by email within 20 working days of submission.
 
-<!--<a class="btn btn-large btn-primary" href="{{site.raurl}}/assgn.pdf"><i class="icon-upload-alt"></i>Download Assignment Specification</a>-->
+<a class="btn btn-large btn-primary" href="{{site.raurl}}/assgn.pdf"><i class="icon-upload-alt"></i>Download Assignment Specification</a>
 [Research papers for assignment](http://cgweb1.northumbria.ac.uk/SubjectAreaResources/kf7046/papers/review/)
 
 Assessment is subject to the [Academic Regulations for Taught
@@ -195,6 +195,5 @@ concepts, you should refer to the following textbooks:
 <li><a href="http://mininet.github.com/">Mininet</a></li>
 <li><a href="https://www.opennetworking.org/">The Open Networking Foundation</a></li>
 <li><a href="http://www.wireshark.org/docs/wsug_html_chunked/">Wireshark manual</a> </li>
-<!--<li><a href="http://cgweb1.northumbria.ac.uk/SubjectAreaResources/EN0746/cnt-full-guide.pdf">D003 Student Guide</a></li>-->
-</ul>
+<li><a href="http://pubs.opengroup.org/onlinepubs/9699919799/">POSIX.1-2008</a> The IEEE and The Open Group, 2001-2016
 
