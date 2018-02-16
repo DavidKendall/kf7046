@@ -10,12 +10,12 @@ title: KF7046
 subtitle: Computer Network Implementation
 authors: David Kendall
 copyyear: 2016-18
-url: http://hesabu.net
-baseurl: /kf7046
+#url: http://hesabu.net
+#baseurl: /kf7046
+url: ""
+baseurl: ""
 raurl: assets/ra
 rraurl: assets/ra
-#url: ""
-#baseurl: ""
 
 lab_links:
   - title: Lab 1
