@@ -89,16 +89,16 @@ change during the course of the module.
 
 | Week   | W/c   | Lecture   | Practical   | Reading   |
 | :----: | :---: | :-------: | :---------: | :-------: |
-**1** | 15-Jan &nbsp; | [Introduction to the module]({{site.raurl}}/A01.pdf) &nbsp; | [Introduction to Virtualbox and Ubuntu desktop](L01.html) | [How to read a paper]({{site.raurl}}/kes12.pdf) <br/> [A brief history of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)
-**2** | 22-Jan &nbsp; | [Virtualisation]({{site.raurl}}/A02.pdf) | [Headless Ubuntu server](L02.html) | [A comparison of software and hardware techniques for x86 virtualization]({{site.raurl}}/aa06.pdf) <br/> [Xen and the art of virtualization]({{site.raurl}}/bdf03.pdf)
-**3** | 29-Jan &nbsp; | [IP Architecture]({{site.raurl}}/A03.pdf) | [TCP performance measurement](L03.html) | [A protocol for packet network intercommunication]({{site.raurl}}/ck74.pdf) <br/> [The design philosophy of the DARPA Internet protocols]({{site.raurl}}/cla88.pdf) <br/> [End to end arguments in system design]({{site.raurl}}/src84.pdf)
-**4** | 05-Feb &nbsp; | [Case study: DNS and Bind]({{site.raurl}}/A04.pdf) | [Caching DNS server](L04.html) | [Development of the domain name system]({{site.raurl}}/md88.pdf)
-**5** | 12-Feb &nbsp; | [Case study: DNS and Bind]({{site.raurl}}/A05.pdf) | [Primary DNS server](L05.html) | [DNS performance and the effectiveness of caching]({{site.raurl}}/jsb02.pdf) 
-**6** | 19-Feb &nbsp; | [Case study: DNS and Bind]({{site.raurl}}/A06.pdf) | [Secondary DNS server](L06.html) | [A layered naming architecture for the Internet]({{site.raurl}}/blr04.pdf) <br/> [RFC 1034](http://tools.ietf.org/html/rfc1034), [RFC 1035](http://tools.ietf.org/html/rfc1035)
-**7** | 26-Feb &nbsp; | [Case study: Internet of Things]({{site.raurl}}/A07.pdf) | [Configuring a network for IoT](L07.html) <br/> Introduction to the assignment | [A survey on application protocols for the Internet of Things](https://www.researchgate.net/publication/303192188_A_survey_on_application_layer_protocols_for_the_Internet_of_Things)
-**8** | 05-Mar &nbsp; | [Experimental performance evaluation]({{site.raurl}}/A08.pdf) | [Statistical analysis of experimental performance data](L08.html) | [DNS caching: Running on zero](http://saleem.host.cs.st-andrews.ac.uk/talks/2010/ilnp_nanog50/2010-10-05-ilnp_nanog50_dns.pdf)
-**9** | 12-Mar &nbsp; | [Case study: Software defined networking]({{site.raurl}}/A09.pdf) | [Introduction to Mininet](L09.html) | [A network in a laptop: rapid prototyping for software defined networks]({{site.raurl}}/lhm10.pdf) <br/> [Onix: a distributed control platform for large-scale production networks]({{site.raurl}}/kcg10.pdf) <br/> [The future of networking and the past of protocols](http://www.youtube.com/watch?v=YHeyuD89n1Y) (video)
-**10** | 19-Mar &nbsp; | [Case study: Congestion control]({{site.raurl}}/A10.pdf) | [Mininet exercise](L10.html) | [Congestion avoidance and control]({{site.raurl}}/jk88.pdf)
+**1** | 15-Jan &nbsp; | [Introduction to the module]({{site.baseurl}}{{site.raurl}}/A01.pdf) &nbsp; | [Introduction to Virtualbox and Ubuntu desktop](L01.html) | [How to read a paper]({{site.baseurl}}{{site.raurl}}/kes12.pdf) <br/> [A brief history of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)
+**2** | 22-Jan &nbsp; | [Virtualisation]({{site.baseurl}}{{site.raurl}}/A02.pdf) | [Headless Ubuntu server](L02.html) | [A comparison of software and hardware techniques for x86 virtualization]({{site.baseurl}}{{site.raurl}}/aa06.pdf) <br/> [Xen and the art of virtualization]({{site.baseurl}}{{site.raurl}}/bdf03.pdf)
+**3** | 29-Jan &nbsp; | [IP Architecture]({{site.baseurl}}{{site.raurl}}/A03.pdf) | [TCP performance measurement](L03.html) | [A protocol for packet network intercommunication]({{site.baseurl}}{{site.raurl}}/ck74.pdf) <br/> [The design philosophy of the DARPA Internet protocols]({{site.baseurl}}{{site.raurl}}/cla88.pdf) <br/> [End to end arguments in system design]({{site.baseurl}}{{site.raurl}}/src84.pdf)
+**4** | 05-Feb &nbsp; | [Case study: DNS and Bind]({{site.baseurl}}{{site.raurl}}/A04.pdf) | [Caching DNS server](L04.html) | [Development of the domain name system]({{site.baseurl}}{{site.raurl}}/md88.pdf)
+**5** | 12-Feb &nbsp; | [Case study: DNS and Bind]({{site.baseurl}}{{site.raurl}}/A05.pdf) | [Primary DNS server](L05.html) | [DNS performance and the effectiveness of caching]({{site.baseurl}}{{site.raurl}}/jsb02.pdf) 
+**6** | 19-Feb &nbsp; | [Case study: DNS and Bind]({{site.baseurl}}{{site.raurl}}/A06.pdf) | [Secondary DNS server](L06.html) | [A layered naming architecture for the Internet]({{site.baseurl}}{{site.raurl}}/blr04.pdf) <br/> [RFC 1034](http://tools.ietf.org/html/rfc1034), [RFC 1035](http://tools.ietf.org/html/rfc1035)
+**7** | 26-Feb &nbsp; | [Case study: Internet of Things]({{site.baseurl}}{{site.raurl}}/A07.pdf) | [Configuring a network for IoT](L07.html) <br/> Introduction to the assignment | [A survey on application protocols for the Internet of Things](https://www.researchgate.net/publication/303192188_A_survey_on_application_layer_protocols_for_the_Internet_of_Things)
+**8** | 05-Mar &nbsp; | [Experimental performance evaluation]({{site.baseurl}}{{site.raurl}}/A08.pdf) | [Statistical analysis of experimental performance data](L08.html) | [DNS caching: Running on zero](http://saleem.host.cs.st-andrews.ac.uk/talks/2010/ilnp_nanog50/2010-10-05-ilnp_nanog50_dns.pdf)
+**9** | 12-Mar &nbsp; | [Case study: Software defined networking]({{site.baseurl}}{{site.raurl}}/A09.pdf) | [Introduction to Mininet](L09.html) | [A network in a laptop: rapid prototyping for software defined networks]({{site.baseurl}}{{site.raurl}}/lhm10.pdf) <br/> [Onix: a distributed control platform for large-scale production networks]({{site.baseurl}}{{site.raurl}}/kcg10.pdf) <br/> [The future of networking and the past of protocols](http://www.youtube.com/watch?v=YHeyuD89n1Y) (video)
+**10** | 19-Mar &nbsp; | [Case study: Congestion control]({{site.baseurl}}{{site.raurl}}/A10.pdf) | [Mininet exercise](L10.html) | [Congestion avoidance and control]({{site.baseurl}}{{site.raurl}}/jk88.pdf)
 **11** | 16-Apr &nbsp; | Assignment review | Assignment Review | Independent study 
 **12** | 23-Apr &nbsp; | Group demonstrations | Group demonstrations | Independent study
 
@@ -128,7 +128,7 @@ performance experiments are due to be submitted via the elP (Blackboard) by
 23.59 on Thursday of week 13. Feedback and provisional marks will be provided
 to students by email within 20 working days of submission.
 
-<a class="btn btn-large btn-primary" href="{{site.raurl}}/assgn.pdf"><i class="icon-upload-alt"></i>Download Assignment Specification</a>
+<a class="btn btn-large btn-primary" href="{{site.baseurl}}{{site.raurl}}/assgn.pdf"><i class="icon-upload-alt"></i>Download Assignment Specification</a>
 [Research papers for assignment](http://cgweb1.northumbria.ac.uk/SubjectAreaResources/kf7046/papers/review/)
 
 Assessment is subject to the [Academic Regulations for Taught
