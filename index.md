@@ -41,7 +41,8 @@ report.
 
 |   |    |
 |---|:---|
-|Module Tutor &nbsp;  | [David Kendall](http://computing.northumbria.ac.uk/staff/cgdk2)|
+|Module Tutor &nbsp;  | [David Kendall](http://davidkendall.github.io)|
+|Lecturer | [Kezhi Wang](https://sites.google.com/site/drkezhiwang/)|
 
 
 
@@ -49,7 +50,7 @@ report.
 
 |   |    |
 |---|:---|
-Lecture/Lab &nbsp;| Wed 11.00 - 15.00 PAN F1
+Lecture/Lab &nbsp;| Mon 09.00 - 13.00 CIS 203
 
 <p class="text-info">
 There is one 4-hour session per week that will be used primarily for lab work
@@ -128,7 +129,7 @@ performance experiments are due to be submitted via the elP (Blackboard) by
 23.59 on Thursday of week 13. Feedback and provisional marks will be provided
 to students by email within 20 working days of submission.
 
-<a class="btn btn-large btn-primary" href="{{site.raurl}}/assgn.pdf"><i class="icon-upload-alt"></i>Download Assignment Specification</a>
+<!--<a class="btn btn-large btn-primary" href="{{site.raurl}}/assgn.pdf"><i class="icon-upload-alt"></i>Download Assignment Specification</a>-->
 [Research papers for assignment](http://cgweb1.northumbria.ac.uk/SubjectAreaResources/kf7046/papers/review/)
 
 Assessment is subject to the [Academic Regulations for Taught
